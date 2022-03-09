@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hechiok.cn/post/2022-3%E6%9C%88%E5%BA%8F.html</loc>
+    <loc>http://hechiok.cn/post/python-cp4.html</loc>
     
-    <lastmod>2022-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://hechiok.cn/post/2021-December.html</loc>
-    
-    <lastmod>2022-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://hechiok.cn/post/2020-December.html</loc>
-    
-    <lastmod>2022-03-07</lastmod>
+    <lastmod>2022-03-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +13,16 @@
   <url>
     <loc>http://hechiok.cn/post/2022-Januarary.html</loc>
     
-    <lastmod>2022-03-06</lastmod>
+    <lastmod>2022-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/post/2022-3%E6%9C%88%E5%BA%8F.html</loc>
+    
+    <lastmod>2022-03-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +31,7 @@
   <url>
     <loc>http://hechiok.cn/post/2021-September.html</loc>
     
-    <lastmod>2022-03-06</lastmod>
+    <lastmod>2022-03-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +40,7 @@
   <url>
     <loc>http://hechiok.cn/post/2021-June.html</loc>
     
-    <lastmod>2022-03-06</lastmod>
+    <lastmod>2022-03-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +49,25 @@
   <url>
     <loc>http://hechiok.cn/post/2021-Januarary.html</loc>
     
-    <lastmod>2022-03-06</lastmod>
+    <lastmod>2022-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/post/2021-December.html</loc>
+    
+    <lastmod>2022-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/post/2020-December.html</loc>
+    
+    <lastmod>2022-03-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -92,6 +101,20 @@
 
   
   <url>
+    <loc>http://hechiok.cn/tags/life/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/tags/weekly/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://hechiok.cn/tags/Life/</loc>
     <lastmod>2022-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -106,5 +129,33 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://hechiok.cn/categories/Learning/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/categories/Thoughts/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/categories/Learning/Coding/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/categories/Learning/Coding/Python/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

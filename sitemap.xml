@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hechiok.cn/post/2022-3%E6%9C%88%E5%BA%8F.html</loc>
+    <loc>http://hechiok.cn/post/python-cp4-ex.html</loc>
+    
+    <lastmod>2022-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/post/2021-September.html</loc>
     
     <lastmod>2022-03-14</lastmod>
     
@@ -20,16 +29,16 @@
   </url>
   
   <url>
-    <loc>http://hechiok.cn/post/2022-Januarary.html</loc>
+    <loc>http://hechiok.cn/post/2022-3%E6%9C%88%E5%BA%8F.html</loc>
     
-    <lastmod>2022-03-09</lastmod>
+    <lastmod>2022-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://hechiok.cn/post/2021-September.html</loc>
+    <loc>http://hechiok.cn/post/2022-Januarary.html</loc>
     
     <lastmod>2022-03-09</lastmod>
     

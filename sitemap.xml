@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hechiok.cn/post/2022-3%E6%9C%88%E5%BA%8F.html</loc>
+    
+    <lastmod>2022-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://hechiok.cn/post/python-cp4.html</loc>
     
-    <lastmod>2022-03-09</lastmod>
+    <lastmod>2022-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>http://hechiok.cn/post/2022-Januarary.html</loc>
-    
-    <lastmod>2022-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://hechiok.cn/post/2022-3%E6%9C%88%E5%BA%8F.html</loc>
     
     <lastmod>2022-03-09</lastmod>
     
@@ -101,20 +101,6 @@
 
   
   <url>
-    <loc>http://hechiok.cn/tags/life/</loc>
-    <lastmod>2022-03-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://hechiok.cn/tags/weekly/</loc>
-    <lastmod>2022-03-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://hechiok.cn/tags/Life/</loc>
     <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -128,17 +114,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://hechiok.cn/categories/Learning/</loc>
+    <loc>http://hechiok.cn/tags/life/</loc>
     <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>http://hechiok.cn/tags/weekly/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>http://hechiok.cn/categories/Thoughts/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/categories/Learning/</loc>
     <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

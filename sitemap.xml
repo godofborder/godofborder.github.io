@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hechiok.cn/post/2023-mar/</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/post/python-cp6-std/</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://hechiok.cn/post/cquspider/</loc>
     
     <lastmod>2023-03-10</lastmod>
@@ -14,15 +32,6 @@
     <loc>http://hechiok.cn/post/python-cp4/</loc>
     
     <lastmod>2023-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://hechiok.cn/post/python-cp6-std/</loc>
-    
-    <lastmod>2022-05-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -151,14 +160,14 @@
   </url>
   
   <url>
-    <loc>http://hechiok.cn/tags/weekly/</loc>
+    <loc>http://hechiok.cn/tags/life/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://hechiok.cn/tags/life/</loc>
+    <loc>http://hechiok.cn/tags/weekly/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -174,13 +183,6 @@
   </url>
   
   <url>
-    <loc>http://hechiok.cn/categories/Coding/</loc>
-    <lastmod>2023-03-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://hechiok.cn/categories/Learning/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -188,7 +190,7 @@
   </url>
   
   <url>
-    <loc>http://hechiok.cn/categories/Coding/Python/</loc>
+    <loc>http://hechiok.cn/categories/Coding/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -196,6 +198,13 @@
   
   <url>
     <loc>http://hechiok.cn/categories/Learning/Coding/</loc>
+    <lastmod>2023-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://hechiok.cn/categories/Coding/Python/</loc>
     <lastmod>2023-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

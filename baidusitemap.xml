@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://hechiok.cn//post/cquspider/</loc>
+    <lastmod>2023-03-10</lastmod>
+  </url>
+  <url>
+    <loc>http://hechiok.cn//post/python-cp4/</loc>
+    <lastmod>2023-03-09</lastmod>
+  </url>
+  <url>
     <loc>http://hechiok.cn//post/python-cp6-std/</loc>
     <lastmod>2022-05-27</lastmod>
   </url>
@@ -18,10 +26,6 @@
   </url>
   <url>
     <loc>http://hechiok.cn//post/2021-September/</loc>
-    <lastmod>2022-03-15</lastmod>
-  </url>
-  <url>
-    <loc>http://hechiok.cn//post/python-cp4/</loc>
     <lastmod>2022-03-15</lastmod>
   </url>
   <url>
